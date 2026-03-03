@@ -1,0 +1,5 @@
+Drum
+Dummy
+Net
+Chair
+Tire
